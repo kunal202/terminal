@@ -1,0 +1,35 @@
+{
+  "readmeUrl": "https://raw.githubusercontent.com/kunal202/terminal",
+  "title": "Really Cool Name",
+  "name": "Kunal Chandel",
+  "ascii": "kunalvunal",
+  "social": {
+    "github": "kunal202",
+    "linkedin": "kunal-chandel-7689b711a/"
+  },
+  "email": "kunalchandel212@email.com",
+  "ps1_hostname": "kunal",
+  "ps1_username": "visitor",
+  "repo": "https://github.com/kunal202/terminal",
+  "resume_url": "https://drive.google.com/file/d/1XogMfxvMo3JJ04JWQb8bL4T0QrbGckBm/view?usp=sharing",
+  "colors": {
+    "light": {
+      "background": "#E5E9F0",
+      "foreground": "#2E3440",
+      "yellow": "#5E81AC",
+      "green": "#A3BE8C",
+      "gray": "#88C0D0",
+      "blue": "#EBCB8B",
+      "red": "#BF616A"
+    },
+    "dark": {
+      "background": "#2F1E2E",
+      "foreground": "#A39E9B",
+      "yellow": "#FEC418",
+      "green": "#48B685",
+      "gray": "#815BA4",
+      "blue": "#06B6EF",
+      "red": "#EF6155"
+    }
+  }
+}
